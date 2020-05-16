@@ -1,4 +1,4 @@
-# node-red-contrib-usbhid
+# node-red-contrib-usbhid-stream
 
 A node-hid (USB HID device access library) wrapper for nodered
 
